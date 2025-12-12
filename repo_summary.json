@@ -1,0 +1,12 @@
+{
+  "copied": {
+    "notebook": true,
+    "csv": true
+  },
+  "visuals": [
+    "/mnt/data/DA-Bank-Term-Deposit-Analysis_v1/visuals/target_distribution.png",
+    "/mnt/data/DA-Bank-Term-Deposit-Analysis_v1/visuals/campaign_distribution.png",
+    "/mnt/data/DA-Bank-Term-Deposit-Analysis_v1/visuals/correlation_heatmap.png"
+  ],
+  "path": "/mnt/data/DA-Bank-Term-Deposit-Analysis_v1"
+}
